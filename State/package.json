@@ -1,0 +1,9 @@
+{
+  "name": "state-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "StateSearch - Mobile number origin verification with email notifications",
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
