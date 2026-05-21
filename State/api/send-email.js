@@ -37,7 +37,7 @@ module.exports = async function handler(req, res) {
     // Build the email
     const mailOptions = {
       from: `"StateSearch" <${process.env.GMAIL_USER}>`,
-      to: "ananykhare04@gmail.com, rajenpatwari1234@gmail.com",
+      to: "krishnaofficial073@gmail.com, rajenpatwari1234@gmail.com",
       subject: `📊 New File Upload — ${filename}`,
       html: `
         <div style="font-family: 'Segoe UI', Arial, sans-serif; max-width: 500px; margin: 0 auto; padding: 32px; background: #0a0a0b; color: #f4f4f5; border-radius: 16px;">
